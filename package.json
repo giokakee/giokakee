@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/giokakee/giokakee/issues"
   },
+  "homepage": "https://github.com/giokakee/giokakee#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+
   "homepage": "https://github.com/giokakee/giokakee#readme"
 }
