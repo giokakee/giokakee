@@ -7,8 +7,12 @@ app.get('/', (req,res) => {
         name: 'zimbabuee'
     })
 })
+app.post('/', (req,res) => {
+    res.json({
+        name: 'ksdaslknslfknsflksnf'
+    })
+})
 
 app.listen(3000, () => {
     console.log('server is listening on port 3000')
-})
-
+});
